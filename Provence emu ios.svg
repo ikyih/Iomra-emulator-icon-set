@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Provence emu ios</title>
+    <defs>
+        <linearGradient x1="49.9999978%" y1="1.08808686e-14%" x2="49.9999978%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#32CDFE" offset="0%"></stop>
+            <stop stop-color="#8BFFF4" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Provence-emu-ios" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="url(#linearGradient-1)" x="1" y="0" width="512" height="512"></rect>
+        <path d="M354.5,-149 C260.33545,-149 184,-44.4584891 184,84.5 C184,213.458489 260.33545,318 354.5,318" id="Path" stroke="#000000" stroke-width="10" transform="translate(269.25, 84.5) scale(-1, 1) translate(-269.25, -84.5)"></path>
+        <rect id="Rectangle" stroke="#000000" stroke-width="10" fill="#3D3D3D" x="103" y="261" width="307" height="122" rx="12"></rect>
+        <rect id="Rectangle" fill="#D8D8D8" x="212" y="322" width="90" height="28" rx="8"></rect>
+        <path d="M220,370 L294,370 C298.418278,370 302,373.581722 302,378 L302,388 L302,388 L212,388 L212,378 C212,373.581722 215.581722,370 220,370 Z" id="Rectangle-Copy-3" fill="#D8D8D8"></path>
+        <path d="M212,256 L302,256 L302,286 C302,290.418278 298.418278,294 294,294 L220,294 C215.581722,294 212,290.418278 212,286 L212,256 L212,256 Z" id="Rectangle-Copy-6" fill="#D8D8D8"></path>
+        <rect id="Rectangle-Copy-4" fill="#D8D8D8" x="212" y="354" width="90" height="12" rx="6"></rect>
+        <rect id="Rectangle-Copy-5" fill="#D8D8D8" x="212" y="298" width="90" height="18" rx="8"></rect>
+        <circle id="Oval" fill="#FF0000" cx="332" cy="352" r="17"></circle>
+        <circle id="Oval-Copy" fill="#FF0000" cx="379" cy="352" r="17"></circle>
+        <rect id="Rectangle" fill="#000000" x="138" y="283" width="33" height="86" rx="8"></rect>
+        <rect id="Rectangle-Copy" fill="#000000" transform="translate(154.5, 326) rotate(90) translate(-154.5, -326)" x="138" y="283" width="33" height="86" rx="8"></rect>
+        <g id="Rectangle-2" transform="translate(225, 330)" fill="#000000">
+            <rect id="Rectangle" x="0" y="0" width="28" height="12" rx="6"></rect>
+            <rect id="Rectangle-Copy-2" x="35" y="0" width="28" height="12" rx="6"></rect>
+        </g>
+        <rect id="Rectangle-Copy-7" stroke="#000000" stroke-width="10" x="103" y="261" width="307" height="122" rx="12"></rect>
+    </g>
+</svg>
